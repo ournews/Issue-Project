@@ -1,2 +1,3 @@
-# Issue-Project
-An empty repo for public to post issues
+# public.issues.board
+
+This repo is used for anyone to report issues or make other contributions.
